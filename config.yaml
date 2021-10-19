@@ -85,23 +85,23 @@ params:
         subtitle: Updated on 19 October 2021
         title: My Personal CV
         url: blogs/aliquam
-      - image: pic02.jpg
+      - image: Volunteer.jpg
         subtitle: Volunteer / Piano / Traveling
         title: Extracurricular Activities
         url: blogs/tempus
-      - image: pic03.jpg
+      - image: Interest Rate.jpg
         subtitle: Interest rate / R Markdown
         title: Macroeconomic Analysis 
         url: blogs/magna
-      - image: pic04.jpg
+      - image: gold.jpg
         subtitle: Covid-19 impact on gold price presentation
         title: Gold Analysis 
         url: blogs/ipsum
-      - image: pic05.jpg
+      - image: analysis.jpg
         subtitle: Logitech / Microsoft 
         title: Stock Analysis Report 
         url: blogs/ipsum
-      - image: pic06.jpg
+      - image: portfolio.jpg
         subtitle: Return/ CAPM / Minimum Variance Portfolio 
         title: Interactive Stock Portfolio 
         url: blogs/ipsum
