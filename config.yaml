@@ -102,7 +102,7 @@ params:
         title: Stock Analysis Report 
         url: blogs/ipsum
       - image: pic06.jpg
-        subtitle: Return/ CAP< / Minimum Variance Portfolio 
+        subtitle: Return/ CAPM / Minimum Variance Portfolio 
         title: Interactive Stock Portfolio 
         url: blogs/ipsum
   two:
@@ -114,5 +114,5 @@ params:
       pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
       Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
       amet pharetra et feugiat tempus."
-    title: Massa libero
+    title: My three main interests in asset management field 
     url: blogs
