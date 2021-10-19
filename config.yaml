@@ -7,7 +7,9 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |Passionate about investing in equities and alernative assets 
+    subtitle: |-
+      Passionate about investing in equities and alernative assets.
+      Please feel free to contact me via Linkedin icon at the end of this page
     title: Varis Sinthopruangchai's Interactive CV
   blog: {}
   contact:
