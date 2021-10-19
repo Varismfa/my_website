@@ -7,10 +7,8 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Portfolio Website for Varis Sinthopruangchai
+    subtitle: |Passionate about investing in equities and alernative assets 
+    title: Varis Sinthopruangchai's Interactive CV
   blog: {}
   contact:
     address:
