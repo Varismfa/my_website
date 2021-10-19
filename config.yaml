@@ -6,9 +6,9 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Know more about me
     subtitle: |-
-      Passionate about investing in equities and alernative assets.
+      Passionate about investing in equities and alternative assets.
       Please feel free to contact me via Linkedin icon at the end of this page.
     title: Varis Sinthopruangchai's Interactive CV
   blog: {}
@@ -76,34 +76,34 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: 
+    title: Varis Sinthopruangchai
   tiles:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Updated on 19 October 2021
+        title: My Personal CV
         url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle: Volunteer / Piano / Traveling
+        title: Extracurricular Activities
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: Interest rate / R Markdown
+        title: Macroeconomic Analysis 
         url: blogs/magna
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Covid-19 impact on gold price presentation
+        title: Gold Analysis 
         url: blogs/ipsum
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+        subtitle: Logitech / Microsoft 
+        title: Stock Analysis Report 
         url: blogs/ipsum
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+        subtitle: Return/ CAP< / Minimum Variance Portfolio 
+        title: Interactive Stock Portfolio 
         url: blogs/ipsum
   two:
     buttonText: Get Started
