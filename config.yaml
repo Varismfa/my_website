@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: CV_cover2.jpg
+      - image: CV_cover4.jpg
         subtitle: Updated on 19 October 2021
         title: My Personal CV
         url: blogs/aliquam
