@@ -10,7 +10,7 @@ params:
     subtitle: |-
       Passionate about investing in equities and alternative assets.
       Please feel free to contact me via Linkedin icon at the end of this page.
-    title: Varis Sinthopruangchai's Interactive CV
+    title: Varis Sinthopruangchai's Interactive Profile
   blog: {}
   contact:
     address:
@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: CV_cover.jpg
         subtitle: Updated on 19 October 2021
         title: My Personal CV
         url: blogs/aliquam
@@ -108,6 +108,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "1.Macroeconomic Analysis (gold and interest rate) 2. Portfolio formation (Minimum Variance Portfolio and optimal portfolio optimization 3. Fundamental research on stock)  "
-    title: My three main interests in asset management field 
+    subtitle: "1.Macroeconomic Analysis (gold and interest rate) 2. Portfolio allocation (Minimum Variance Portfolio and optimal portfolio optimization 3. Fundamental Research on stock)  "
+    title: My Three Main Interests in Asset Management Field 
     url: blogs
