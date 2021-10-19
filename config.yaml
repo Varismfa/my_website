@@ -108,11 +108,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
+    subtitle: "1.Macroeconomic Analysis (gold and interest rate) 2. Portfolio formation (Minimum Variance Portfolio and optimal portfolio optimization 3. Fundamental research on stock)  "
     title: My three main interests in asset management field 
     url: blogs
