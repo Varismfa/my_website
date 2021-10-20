@@ -33,4 +33,4 @@ Gold does not give any cash flow to the owner; therefore, the interest rate is o
 
 The inflow of the ETF are the short term leading factor of the gold. As more inflow in the ETF will increase the price momentum of the gold price.
 
-This is the brief analysis of the gold framework , please feel free to download the full presentation here [Gold Presentation](https://drive.google.com/file/d/1H1YHr29w44YN95eezMwXVe4ICCwTpV8u/view?usp=sharing). Please feel free to contact me directly for futher discussion about this presentation. 
+This is the brief analysis of the gold framework , please feel free to download the full presentation here [Gold Presentation](https://drive.google.com/file/d/1_pk8-R-vG9T7goYkhkCSwfE2wFRGQFQr/view?usp=sharing). Please feel free to contact me directly for further discussion about this presentation. 
