@@ -1,0 +1,14 @@
+name: my_websites
+title:
+username:
+account: varissinthopruangchai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4917607
+bundleId: 5159444
+url: https://varissinthopruangchai.shinyapps.io/my_websites/
+when: 1634751350.75431
+lastSyncTime: 1634751350.75431
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile|archetypes/default.md|capm_flexdashboard.Rmd|config.yaml|data/yield_curve.csv|index.Rmd|layouts/shortcodes/blogdown/postref.html|netlify.toml|Pictures/Travel.jpg|public/post/2020-12-01-r-rmarkdown/index.Rmd|R/build.R|R/build2.R|README.md|content|static|themes

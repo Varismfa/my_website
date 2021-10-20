@@ -11,6 +11,7 @@ params:
       Passionate about investing in equities and alternative assets.
       Please feel free to contact me via Linkedin icon at the end of this page.
     title: Varis Sinthopruangchai's Interactive Profile
+    image: Interest Rate.jpg
   blog: {}
   contact:
     address:
@@ -65,7 +66,7 @@ params:
         url: blogs
     button2:
       - name: Interactive stock Portfolio
-        url: http://127.0.0.1:3650/capm_flexdashboard.Rmd
+        url: https://varissinthopruangchai.shinyapps.io/my_websites/
     links:
       - name: Home
         url: '#'
@@ -114,6 +115,6 @@ params:
   two:
     buttonText: Explore my Stories
     enable: yes
-    subtitle: "My name is Varis Sinthopruangchai from Bangkok, Thailand. Currently, I am studing at London Business School for my Masters Degree/ I have been interest in the 3 main areas of asset management: 1. Gold Analysis 2. Porfolio Allocation 3.Stock Analysis"
+    subtitle: "My name is Varis Sinthopruangchai from Bangkok, Thailand. Currently, I am studying at London Business School for my Masters Degree.I have been interest in the 3 main areas of asset management: 1. Gold Analysis 2. Porfolio Allocation 3.Stock Analysis"
     title: Breif Introduction
     url: blogs

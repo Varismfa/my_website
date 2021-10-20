@@ -10,5 +10,8 @@ keywords: ""
 slug: tempus
 title: My Extra Curricular Activities
 ---
+
+knitr::include_graphics("Travel.jpg")
+
 ![D:\LBS\Data Analytic for Finance\my_websites\Pictures](Travel.jpg)
 Extracurricular

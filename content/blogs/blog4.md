@@ -11,4 +11,6 @@ slug: aliquam
 title: My Personal CV
 ---
 
-My personal CV
+knitr::include_graphics("Resume.jpg",error =FALSE)
+
+[Click here](https://rpubs.com/varismfa/resume)
