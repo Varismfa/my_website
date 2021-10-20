@@ -61,11 +61,11 @@ params:
   name: Your name
   navigation:
     button1:
-      - name:Explore my Stories
+      - name: Explore my Stories
         url: blogs
     button2:
-      - name:Interactive stock Portfolio
-        url: blogs/portfolio
+      - name: Interactive stock Portfolio
+        url: http://127.0.0.1:3650/capm_flexdashboard.Rmd
     links:
       - name: Home
         url: '#'
@@ -114,6 +114,6 @@ params:
   two:
     buttonText: Explore my Stories
     enable: yes
-    subtitle: "1.Macroeconomic Analysis (gold and interest rate) 2. Portfolio allocation (Minimum Variance Portfolio and optimal portfolio optimization 3. Fundamental Research on stock  "
-    title: My Three Main Interests in Asset Management Field 
+    subtitle: "My name is Varis Sinthopruangchai from Bangkok, Thailand. Currently, I am studing at London Business School for my Masters Degree/ I have been interest in the 3 main areas of asset management: 1. Gold Analysis 2. Porfolio Allocation 3.Stock Analysis"
+    title: Breif Introduction
     url: blogs
