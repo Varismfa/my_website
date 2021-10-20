@@ -61,11 +61,11 @@ params:
   name: Your name
   navigation:
     button1:
-      - name: Get Started
+      - name:Explore my Stories
         url: blogs
     button2:
-      - name: Log In
-        url: '#'
+      - name: Interactive stock Portfolio
+        url: blogs/portfolio
     links:
       - name: Home
         url: '#'
@@ -81,8 +81,6 @@ params:
         url: blogs/ipsum
       - name: Stock Analysis Report
         url: blogs/stock
-      - name: Interactive Stock Portfolio
-        url: blogs/portfolio
     menu: Menu
     subtitle: 
     title: Varis Sinthopruangchai
@@ -114,7 +112,7 @@ params:
         title: Interactive Stock Portfolio 
         url: blogs/portfolio
   two:
-    buttonText: See more details
+    buttonText: Explore my Stories
     enable: yes
     subtitle: "1.Macroeconomic Analysis (gold and interest rate) 2. Portfolio allocation (Minimum Variance Portfolio and optimal portfolio optimization 3. Fundamental Research on stock  "
     title: My Three Main Interests in Asset Management Field 
