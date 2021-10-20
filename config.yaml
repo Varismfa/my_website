@@ -39,9 +39,9 @@ params:
     copyright: Varis Sinthopruangchai
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+      - alt: Download
+        text: 'CV'
+        url: https://drive.google.com/file/d/1H1YHr29w44YN95eezMwXVe4ICCwTpV8u/view?usp=sharing
     social:
       - icon: fa-twitter
         label: Twitter

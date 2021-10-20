@@ -1,0 +1,16 @@
+---
+title: "Resume"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# This is my resume ( lastest update 19 October 2021)
+
+
+```{r}
+knitr::include_graphics("/img/Resume.JPG",error =FALSE)
+
+```

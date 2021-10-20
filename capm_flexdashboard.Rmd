@@ -238,3 +238,6 @@ renderTable({
   mutate(term = c("alpha", "beta"))
 }, digits = 4)
 ```
+
+
+
