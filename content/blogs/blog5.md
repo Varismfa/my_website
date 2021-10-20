@@ -7,6 +7,8 @@ description: Lorem Etiam Nullam
 draft: false
 image: pic09.jpg
 keywords: ""
-slug: 
-title: 
+slug: portfolio
+title: Stock Portfolio
 ---
+
+This is my stock portfolio 

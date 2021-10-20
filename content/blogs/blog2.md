@@ -7,6 +7,8 @@ description: Lorem Etiam Nullam
 draft: false
 image: pic09.jpg
 keywords: ""
-slug: 
-title: 4
+slug: stock
+title: Stock Analysis Report
 ---
+
+These are my stock report analysis

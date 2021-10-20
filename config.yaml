@@ -71,10 +71,18 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
+      - name: Personal CV
+        url: blogs/aliquam
+      - name: Extracurricular Activities
+        url: blogs/tempus
+      - name: Macroeconomic Analysis
+        url: blogs/magna
+      - name: Gold Analysis
         url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: Stock Analysis Report
+        url: blogs/stock
+      - name: Interactive Stock Portfolio
+        url: blogs/portfolio
     menu: Menu
     subtitle: 
     title: Varis Sinthopruangchai
@@ -100,11 +108,11 @@ params:
       - image: analysis.jpg
         subtitle: Logitech / Microsoft 
         title: Stock Analysis Report 
-        url: blogs/ipsum
+        url: blogs/stock
       - image: portfolio.jpg
         subtitle: Return/ CAPM / Minimum Variance Portfolio 
         title: Interactive Stock Portfolio 
-        url: blogs/ipsum
+        url: blogs/portfolio
   two:
     buttonText: See more details
     enable: yes
