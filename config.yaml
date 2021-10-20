@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Varis Sinthopruangchai
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -106,8 +106,8 @@ params:
         title: Interactive Stock Portfolio 
         url: blogs/ipsum
   two:
-    buttonText: Get Started
+    buttonText: See more details
     enable: yes
-    subtitle: "1.Macroeconomic Analysis (gold and interest rate) 2. Portfolio allocation (Minimum Variance Portfolio and optimal portfolio optimization 3. Fundamental Research on stock)  "
+    subtitle: "1.Macroeconomic Analysis (gold and interest rate) 2. Portfolio allocation (Minimum Variance Portfolio and optimal portfolio optimization 3. Fundamental Research on stock  "
     title: My Three Main Interests in Asset Management Field 
     url: blogs
