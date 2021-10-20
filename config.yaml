@@ -64,7 +64,7 @@ params:
       - name:Explore my Stories
         url: blogs
     button2:
-      - name: Interactive stock Portfolio
+      - name:Interactive stock Portfolio
         url: blogs/portfolio
     links:
       - name: Home
