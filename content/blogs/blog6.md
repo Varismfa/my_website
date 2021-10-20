@@ -11,6 +11,4 @@ slug: tempus
 title: My Extra Curricular Activities
 ---
 
-knitr::include_graphics("Travel.jpg")
-![D:\LBS\Data Analytic for Finance\my_websites\Pictures](Travel.jpg)
-Extracurricular
+I am originally from Bangkok, Thailand where there are many people who do not have access to healthcare , education and basic necessities. Therefore, I am fond of helping to solve this issues in the country. Every year during Vegan Ceremony, my family and I volunteer to provide free 10 days food to homeless people as we believe that the more that even a small kindness can improve people's life. In the picture above is my whole family pictures donating the Oxygen ventilator to the hospital during COVID-19 pandemic to help those people who do not have money to go to hospital to survive. My ultimate goal in life is to create a foundation by raising fund from philanthropist to create a foundation fund to support and solve these issues in Thailand. 
