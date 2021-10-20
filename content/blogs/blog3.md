@@ -11,7 +11,7 @@ slug: magna
 title: Macroeconomic Analysis
 ---
 
-This is one of the assignment that I was assigned in the Data for Analytic couse at LBS and it is very interesting the show the R coding process and the analysis of the chart. 
+This is one of the assignment that I was assigned in the Data for Analytic course at LBS and it is very interesting the show the R coding process and the analysis of the chart. 
 
 **Code in R Studio for the above pictures:** 
 
@@ -89,7 +89,7 @@ Shaded areas cirrespond to recessions",
 ```
 
 
-** Graph Analysis**
+**Graph Analysis**
 
 Almost everytime before the recession happen, we will see the inverted bond yield ( spread between 10 year and 3 months is negative or the red shade area time frame in the graph).Theoretically speaking, we know that a yield with a longer maturity should always be higher than a yield with a smaller maturity, as there is a risk premium over longer maturities - it should always be safer to buy right now than to buy in an uncertain futures. However, for short period of history, the yield curve inverted with means the 3-month yield was higher than the 10-year yield. When investors think it is riskier to buy today rather than in an uncertain future, it means the situation today is worse than it will be in the years to come. It is usually a signal of an impending crisis. And as predicted, each inversion yield curve was followed by a financial crisis. In 2000 and 2006, the yield curve inverted. If you look at the central banks speeches following those inverted yield curves, they always try to reassure the markets... In 2019, there was another inversion of the yield curve. The market could not have predicted the covid crisis, but there were issues at the time that could also have led to a crisis. The very low rate environment which ended up on equities sky valuations could have unveiled a financial bubble if rates had increased. Today, after 2 years of pandemic, we are faced with similar issues. The potential rise in yields poses a serious threat to the current excessive valuation of tech stocks, and could unveil a financial bubble. To quote Warren Buffet, “only when the tide goes out do you discover who's been swimming naked”. This will surely be one of the critical issues of the coming months. A yield curve flattening can really mean a recession is coming in the US. A research study from Deutsche Bank actually calculated the regression between inverted yield curves and recessions and found a very small p-value, which proved the statistical relationship of the variables. As a conclusion, we see that inverted yield curves are a good indicator of potential recessions. As we mentioned earlier, theoretically speaking, it does not make any sense to think it is more riskier to buy today than in a future we don't know. We see that an inversion was systematically followed by a crisis even when it happened in 2019, when it was impossible to predict what will happen. We need to stay tune and always follow the spread.
 

@@ -11,7 +11,7 @@ slug: ipsum
 title: Gold Analysis
 ---
 
-Introduction: During my time as a secretary to the THE SENATE STANDING COMMITTEE ON ECONOMICS,MONETARY,FINANCE, Bangkok,Thailand , the COVID-19 pandemic occurred and I received a task to provide the presentation on the impact of the COVID-19 on gold price and its fundamental analysis. The above picture is the short gold framework analysis that I have presented to the committee. 
+Introduction: During my time as a secretary to the THE SENATE STANDING COMMITTEE ON ECONOMICS,MONETARY,FINANCE, Bangkok,Thailand , the COVID-19 pandemic occurred and I received a task to provide the presentation on the impact of the COVID-19 on gold price and its fundamental analysis. The above picture is the gold framework analysis that I have presented to the committee. 
 
 **Gold Analysis framework** 
 

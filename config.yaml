@@ -93,7 +93,7 @@ params:
         title: My Personal CV
         url: blogs/aliquam
       - image: Volunteer.jpg
-        subtitle: Volunteer / Piano / Traveling
+        subtitle: Volunteer
         title: Extracurricular Activities
         url: blogs/tempus
       - image: Interest Rate.jpg
