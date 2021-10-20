@@ -3,7 +3,7 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:09-05:00"
-description: Lorem Etiam Nullam
+description: Yield Curve graph using R Studio
 draft: false
 image: Yieldcurve.png
 keywords: ""

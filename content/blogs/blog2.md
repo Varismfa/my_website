@@ -3,7 +3,7 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:09-05:00"
-description: Lorem Etiam Nullam
+description: Examples of my own stock analysis report 
 draft: false
 image: Stock Analysis.jpg
 keywords: ""
@@ -11,4 +11,7 @@ slug: stock
 title: Stock Analysis Report
 ---
 
-These are my stock report analysis
+These are 2 of the stock analysis reports which was written in Q32021 for my personal investment portfolio.
+
+Microsoft's Stock Analysis[Click here to download MSFT Report](https://drive.google.com/file/d/1H1YHr29w44YN95eezMwXVe4ICCwTpV8u/view?usp=sharing)
+Logitech's Stock Analysis [Click here to download LOGI Report](https://drive.google.com/file/d/1g5BeJRoC2PQzOHs3tGigxu7bFqJXX810/view?usp=sharing)
